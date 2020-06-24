@@ -1,2 +1,4 @@
 # MY CODI
-mobile programming
+Mobile programming Term Project made by Park Jung Hun, Noh Joon Young , Sin Dong Jae
+
+
